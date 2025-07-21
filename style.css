@@ -16,11 +16,9 @@ body {
   margin: 0;
 }
 
-h1 {
-  color: rgb(0, 0, 0);
-  font-size: 10rem;
-  text-align: center;
-  opacity: 0.4;
+h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
 }
 
 form {
@@ -31,7 +29,7 @@ form {
 
 .input {
   border: none;
-  color: #444;
+  color: #000000;
   font-size: 2rem;
   padding: 1rem 2rem;
   display: block;
